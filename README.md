@@ -70,3 +70,4 @@ Here
 * Status shows whether attempts were blocked, missing, or (worse) allowed.
 
 ## Conclusion
+![Cloudflare HTTP Log Analysis Dashboard](CloudflareHttp.png)
